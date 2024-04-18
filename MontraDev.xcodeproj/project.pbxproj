@@ -11,6 +11,20 @@
 		527462882BD0DA50001537BF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527462872BD0DA50001537BF /* ContentView.swift */; };
 		5274628A2BD0DA51001537BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 527462892BD0DA51001537BF /* Assets.xcassets */; };
 		5274628D2BD0DA51001537BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5274628C2BD0DA51001537BF /* Preview Assets.xcassets */; };
+		527462982BD0DB44001537BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 527462972BD0DB44001537BF /* LaunchScreen.storyboard */; };
+		527462B32BD0FEC4001537BF /* Onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527462B22BD0FEC4001537BF /* Onboarding.swift */; };
+		527462B62BD0FEFB001537BF /* OnboardingSingleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527462B52BD0FEFB001537BF /* OnboardingSingleView.swift */; };
+		527462C02BD10108001537BF /* Inter-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462B72BD10108001537BF /* Inter-Black.ttf */; };
+		527462C12BD10108001537BF /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462B82BD10108001537BF /* Inter-Bold.ttf */; };
+		527462C22BD10108001537BF /* Inter-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462B92BD10108001537BF /* Inter-ExtraBold.ttf */; };
+		527462C32BD10108001537BF /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462BA2BD10108001537BF /* Inter-SemiBold.ttf */; };
+		527462C42BD10108001537BF /* Inter-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462BB2BD10108001537BF /* Inter-Thin.ttf */; };
+		527462C52BD10108001537BF /* Inter-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462BC2BD10108001537BF /* Inter-ExtraLight.ttf */; };
+		527462C62BD10108001537BF /* Inter-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462BD2BD10108001537BF /* Inter-Light.ttf */; };
+		527462C72BD10108001537BF /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462BE2BD10108001537BF /* Inter-Medium.ttf */; };
+		527462C82BD10108001537BF /* Inter-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 527462BF2BD10108001537BF /* Inter-Regular.ttf */; };
+		527462CC2BD1049C001537BF /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527462CB2BD1049C001537BF /* OnboardingView.swift */; };
+		527462CE2BD105F3001537BF /* CustomDotIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 527462CD2BD105F3001537BF /* CustomDotIndicator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +33,21 @@
 		527462872BD0DA50001537BF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		527462892BD0DA51001537BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5274628C2BD0DA51001537BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		527462972BD0DB44001537BF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		527462AC2BD0F9A1001537BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		527462B22BD0FEC4001537BF /* Onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onboarding.swift; sourceTree = "<group>"; };
+		527462B52BD0FEFB001537BF /* OnboardingSingleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingSingleView.swift; sourceTree = "<group>"; };
+		527462B72BD10108001537BF /* Inter-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Black.ttf"; sourceTree = "<group>"; };
+		527462B82BD10108001537BF /* Inter-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Bold.ttf"; sourceTree = "<group>"; };
+		527462B92BD10108001537BF /* Inter-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraBold.ttf"; sourceTree = "<group>"; };
+		527462BA2BD10108001537BF /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-SemiBold.ttf"; sourceTree = "<group>"; };
+		527462BB2BD10108001537BF /* Inter-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Thin.ttf"; sourceTree = "<group>"; };
+		527462BC2BD10108001537BF /* Inter-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-ExtraLight.ttf"; sourceTree = "<group>"; };
+		527462BD2BD10108001537BF /* Inter-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Light.ttf"; sourceTree = "<group>"; };
+		527462BE2BD10108001537BF /* Inter-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Medium.ttf"; sourceTree = "<group>"; };
+		527462BF2BD10108001537BF /* Inter-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Inter-Regular.ttf"; sourceTree = "<group>"; };
+		527462CB2BD1049C001537BF /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		527462CD2BD105F3001537BF /* CustomDotIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDotIndicator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,9 +80,11 @@
 		527462842BD0DA50001537BF /* MontraDev */ = {
 			isa = PBXGroup;
 			children = (
-				527462852BD0DA50001537BF /* MontraDevApp.swift */,
-				527462872BD0DA50001537BF /* ContentView.swift */,
-				527462892BD0DA51001537BF /* Assets.xcassets */,
+				527462AF2BD0FC6B001537BF /* Model */,
+				527462AC2BD0F9A1001537BF /* Info.plist */,
+				527462952BD0DA69001537BF /* App */,
+				527462942BD0DA61001537BF /* View */,
+				527462932BD0DA58001537BF /* Resources */,
 				5274628B2BD0DA51001537BF /* Preview Content */,
 			);
 			path = MontraDev;
@@ -65,6 +96,75 @@
 				5274628C2BD0DA51001537BF /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		527462932BD0DA58001537BF /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				527462992BD0F84B001537BF /* Font */,
+				527462892BD0DA51001537BF /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		527462942BD0DA61001537BF /* View */ = {
+			isa = PBXGroup;
+			children = (
+				527462B42BD0FEDB001537BF /* Component */,
+				527462962BD0DB21001537BF /* Launch */,
+				527462872BD0DA50001537BF /* ContentView.swift */,
+				527462CB2BD1049C001537BF /* OnboardingView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		527462952BD0DA69001537BF /* App */ = {
+			isa = PBXGroup;
+			children = (
+				527462852BD0DA50001537BF /* MontraDevApp.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		527462962BD0DB21001537BF /* Launch */ = {
+			isa = PBXGroup;
+			children = (
+				527462972BD0DB44001537BF /* LaunchScreen.storyboard */,
+			);
+			path = Launch;
+			sourceTree = "<group>";
+		};
+		527462992BD0F84B001537BF /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				527462B72BD10108001537BF /* Inter-Black.ttf */,
+				527462B82BD10108001537BF /* Inter-Bold.ttf */,
+				527462B92BD10108001537BF /* Inter-ExtraBold.ttf */,
+				527462BC2BD10108001537BF /* Inter-ExtraLight.ttf */,
+				527462BD2BD10108001537BF /* Inter-Light.ttf */,
+				527462BE2BD10108001537BF /* Inter-Medium.ttf */,
+				527462BF2BD10108001537BF /* Inter-Regular.ttf */,
+				527462BA2BD10108001537BF /* Inter-SemiBold.ttf */,
+				527462BB2BD10108001537BF /* Inter-Thin.ttf */,
+			);
+			path = Font;
+			sourceTree = "<group>";
+		};
+		527462AF2BD0FC6B001537BF /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				527462B22BD0FEC4001537BF /* Onboarding.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		527462B42BD0FEDB001537BF /* Component */ = {
+			isa = PBXGroup;
+			children = (
+				527462B52BD0FEFB001537BF /* OnboardingSingleView.swift */,
+				527462CD2BD105F3001537BF /* CustomDotIndicator.swift */,
+			);
+			path = Component;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +225,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				527462C62BD10108001537BF /* Inter-Light.ttf in Resources */,
+				527462982BD0DB44001537BF /* LaunchScreen.storyboard in Resources */,
+				527462C12BD10108001537BF /* Inter-Bold.ttf in Resources */,
 				5274628D2BD0DA51001537BF /* Preview Assets.xcassets in Resources */,
 				5274628A2BD0DA51001537BF /* Assets.xcassets in Resources */,
+				527462C42BD10108001537BF /* Inter-Thin.ttf in Resources */,
+				527462C02BD10108001537BF /* Inter-Black.ttf in Resources */,
+				527462C22BD10108001537BF /* Inter-ExtraBold.ttf in Resources */,
+				527462C52BD10108001537BF /* Inter-ExtraLight.ttf in Resources */,
+				527462C72BD10108001537BF /* Inter-Medium.ttf in Resources */,
+				527462C82BD10108001537BF /* Inter-Regular.ttf in Resources */,
+				527462C32BD10108001537BF /* Inter-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +247,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				527462B32BD0FEC4001537BF /* Onboarding.swift in Sources */,
+				527462B62BD0FEFB001537BF /* OnboardingSingleView.swift in Sources */,
+				527462CE2BD105F3001537BF /* CustomDotIndicator.swift in Sources */,
 				527462882BD0DA50001537BF /* ContentView.swift in Sources */,
+				527462CC2BD1049C001537BF /* OnboardingView.swift in Sources */,
 				527462862BD0DA50001537BF /* MontraDevApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -274,11 +388,14 @@
 				DEVELOPMENT_ASSET_PATHS = "\"MontraDev/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MontraDev/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -286,9 +403,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.iswift.MontraDev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,11 +423,14 @@
 				DEVELOPMENT_ASSET_PATHS = "\"MontraDev/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = MontraDev/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -314,9 +438,13 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.iswift.MontraDev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};

@@ -11,7 +11,7 @@ import SwiftUI
 struct MontraDevApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            OnboardingView()
         }
     }
 }
